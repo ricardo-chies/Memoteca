@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Quando cair se levante",
+      "autoria": "Neymar Jr",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 1,
+      "conteudo": "Desista enquanto pode",
+      "autoria": "Ricardo Chies",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 1,
+      "conteudo": "A volta dos que não foram",
+      "autoria": "Caio Henrique",
+      "modelo": "modelo3"
+    }
+  ]
+}
